@@ -3,8 +3,8 @@
 I'm currently pursuing a Ph.D. in Mathematics at the Department of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
 
 #### Email  
-<code>gaoyx@bit.edu.cn</code>  
-<code>gaoyx@math.bit.edu.cn</code>
+<code>xmgao@bit.edu.cn</code>  
+<code>xingming.gao.math@gmail.com</code>
 
 #### Education  
 **Beijing Institute of Technology**, Ph.D. in Mathematics (September 2023 – Present)  
