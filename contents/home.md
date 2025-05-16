@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Ph.D. in Mathematics at the Department of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
+I'm currently pursuing a Ph.D. in Mathematics at the school of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
 
 #### Email  
 <code>xmgao@bit.edu.cn</code>  
