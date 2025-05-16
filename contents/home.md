@@ -1,20 +1,47 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Ph.D. in Mathematics at the Department of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>gaoyx@bit.edu.cn</code>  
+<code>gaoyx@math.bit.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing Institute of Technology**, Ph.D. in Mathematics (September 2023 – Present)  
+- Core Courses: Introduction to Modern Partial Differential Equations, Stochastic Partial Differential Equations, Advanced Probability Theory.  
+- Advisors: Professor Ji Xia, Associate Professor Jiang Haiyan.
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Beijing Institute of Technology**, Master of Mathematics (September 2020 – June 2023)  
+- Core Courses: Operator Semigroups and Their Applications, Riemannian Geometry, Graph Theory and Its Applications, Topology.
+- Advisor: Associate Professor Jiang Haiyan.
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Beijing Institute of Technology**, Bachelor of Information and Computational Science (September 2016 – June 2020)  
+- Core Courses: Mathematical Analysis, Advanced Algebra, Numerical Computation, Numerical Solutions of Partial Differential Equations, Optimization Algorithms, Discrete Mathematics, Data Structures.
+
+#### Research Projects  
+**January 2024 – December 2027**  
+- **Research on the Theory of Monge-Ampère Type Equations on Complex Manifolds and Geometric Problems**  
+  - National Natural Science Foundation of China (General Program)  
+  - Role: Participant  
+  - Investigating the theoretical aspects of Monge-Ampère type equations on complex manifolds and their applications in geometry.
+
+**January 2022 – December 2025**  
+- **Analysis and Numerical Simulation of Quantum Transport Models in Semiconductor Devices**  
+  - National Natural Science Foundation of China (General Program)  
+  - Role: Participant  
+  - Focusing on the mathematical analysis and numerical methods for quantum transport models in semiconductor devices.
+
+**January 2022 – December 2025**  
+- **Research on Several Related Problems of the 3+1 Conjecture of Color Symmetric Functions**  
+  - National Natural Science Foundation of China (General Program)  
+  - Role: Participant  
+  - Exploring various problems related to the 3+1 conjecture of color symmetric functions.
+
+**January 2021 – December 2021**  
+- **Research on Several Related Problems of Schur Positivity Conjecture**  
+  - Fundamental Research Funds for the Central Universities  
+  - Role: Participant  
+  - Investigating the Schur positivity conjecture and its related problems.
 
 #### Research Interests  
-XX, XX, XX, XX.
+Partial Differential Equations, Numerical Analysis, Applied Mathematics.

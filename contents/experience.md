@@ -1,21 +1,28 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+### **Part-time Counselor**  
+**September 2020 – June 2021 | School of Mathematics and Statistics, Beijing Institute of Technology**  
+- Organized and managed college activities, ensuring smooth event execution.  
+- Coordinated the design and production of cultural and creative products to enhance the college's cultural atmosphere.  
+- Assisted full-time counselors in handling employment-related matters and participating in recruitment publicity.  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Teaching Assistant**  
+**September 2021 – June 2022 | Beijing Institute of Technology, Beijing Academy**  
+- Provided Q&A and review sessions for mathematics subjects, helping students to consolidate knowledge and improve grades.  
+- Monitored students' learning and living conditions, guiding them to maintain a healthy mindset.  
+- Recognized as an Outstanding Teaching Assistant for the academic year due to excellent performance.  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+---
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **Summer Intern**  
+**July 2022 – August 2022 | Institute of Systems Engineering, Academy of Military Science**  
+- Participated in the xxx key technology research project, focusing on the study of geometric space embedding algorithms for complex networks.  
+- Conducted in-depth research and data analysis, providing valuable insights and suggestions for project progress.  
+
+---
+
+### **Part-time Counselor**  
+**September 2022 – June 2023 | School of Mathematics and Statistics, Beijing Institute of Technology**  
+- Continued to organize and manage college activities, accumulating rich experience in event management.  
+- Coordinated the design and production of cultural and creative products to further enhance the college's cultural atmosphere.  
+- Assisted full-time counselors in handling employment matters and graduation procedures, ensuring a smooth transition for graduating students.  
