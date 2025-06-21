@@ -19,29 +19,29 @@ I'm currently pursuing a Ph.D. in Mathematics at the school of Mathematics and S
 - Core Courses: Mathematical Analysis, Advanced Algebra, Numerical Computation, Numerical Solutions of Partial Differential Equations, Optimization Algorithms, Discrete Mathematics, Data Structures.
 
 #### Research Projects  
-**January 2024 – December 2027**  
-- **Research on the Theory of Monge-Ampère Type Equations on Complex Manifolds and Geometric Problems**  
+**Research on the Theory of Monge-Ampère Type Equations on Complex Manifolds and Geometric Problems** 
+- **January 2024 – December 2027**
   - National Natural Science Foundation of China (General Program)  
   - Role: Participant  
   - Investigating the theoretical aspects of Monge-Ampère type equations on complex manifolds and their applications in geometry.
 
-**January 2022 – December 2025**  
-- **Analysis and Numerical Simulation of Quantum Transport Models in Semiconductor Devices**  
+**Analysis and Numerical Simulation of Quantum Transport Models in Semiconductor Devices** 
+-  **January 2022 – December 2025** 
   - National Natural Science Foundation of China (General Program)  
   - Role: Participant  
   - Focusing on the mathematical analysis and numerical methods for quantum transport models in semiconductor devices.
 
-**January 2022 – December 2025**  
-- **Research on Several Related Problems of the 3+1 Conjecture of Color Symmetric Functions**  
+**Research on Several Related Problems of the 3+1 Conjecture of Color Symmetric Functions**  
+- **January 2022 – December 2025**  
   - National Natural Science Foundation of China (General Program)  
   - Role: Participant  
   - Exploring various problems related to the 3+1 conjecture of color symmetric functions.
 
-**January 2021 – December 2021**  
-- **Research on Several Related Problems of Schur Positivity Conjecture**  
+**Research on Several Related Problems of Schur Positivity Conjecture**  
+- **January 2021 – December 2021**  
   - Fundamental Research Funds for the Central Universities  
   - Role: Participant  
   - Investigating the Schur positivity conjecture and its related problems.
 
 #### Research Interests  
-Partial Differential Equations, Numerical Analysis, Applied Mathematics.
+Partial Differential Equations; Numerical Analysis; Applied Mathematics; AI;
