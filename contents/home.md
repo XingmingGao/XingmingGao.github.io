@@ -44,4 +44,4 @@ I'm currently pursuing a Ph.D. in Mathematics at the school of Mathematics and S
   - Investigating the Schur positivity conjecture and its related problems.
 
 #### Research Interests  
-Partial Differential Equations; Numerical Analysis; Applied Mathematics; AI;
+Numerical Analysis; Applied Mathematics; AI;
