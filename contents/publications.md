@@ -1,4 +1,4 @@
-**Published**
+#### **Published**
 
 - 高兴明, 卢朓, 姜海燕*, 张琼. 带局部Kelvin-Voigt型阻尼一维波动问题能量模控制函数[J]. 数值计算与计算机应用, 2022, 43(3): 259-269.  DOI: [10.12288/szjs.s2021-0743](https://doi.org/10.12288/szjs.s2021-0743)
 
@@ -8,10 +8,10 @@
 
 - Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, in press. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
 
-**Submited**
+#### **Submited**
 
 - Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, under review.
 
-**Manuscript**
+#### **Manuscript**
 
 - Gao X, Jiang H*, Lu T, Yao W. Approximate discrete transparent boundary conditions for the two-dimensional Schrödinger equation on a rectangular region, in preparation.
