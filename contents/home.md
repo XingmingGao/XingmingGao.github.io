@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Gao Xingming](https://img.shields.io/badge/XX-github-blue?logo=github)](https://xingminggao.github.io/)
 
 I'm currently pursuing a Ph.D. in Mathematics at the school of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
 
