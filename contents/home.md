@@ -1,7 +1,10 @@
-[![Gao Xingming](https://img.shields.io/badge/GaoXingming-GitHub-blue?logo=github)](https://github.com/XingmingGao)
-[![WeChat](https://img.shields.io/badge/WeChat-扫码加我-brightgreen?logo=wechat)](#wechat)
-<a id="wechat"></a>
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/WeChat-点击展开二维码-brightgreen?logo=wechat" alt="WeChat Badge" />
+</summary>
+<br>
 <img src="./static\assets\img\wechat.jpg" alt="WeChat QR Code" width="200" />
+</details>
 
 
 I'm currently pursuing a Ph.D. in Mathematics at the school of Mathematics and Statistics, Beijing Institute of Technology, Beijing.
