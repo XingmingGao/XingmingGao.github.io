@@ -8,9 +8,9 @@
 
 - Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, in press. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
 
-#### **Submited**
+- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, Accepted.
 
-- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, under review.
+#### **Submited**
 
 #### **Manuscript**
 
