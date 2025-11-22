@@ -6,7 +6,7 @@
 
 - Pan Y, Zhou X, Sun F, Ni Y, Gao X, Sun H*. A reliable climate model based on Gaussian process[C]. Second International Conference on Applied Statistics, Computational Mathematics, and Software Engineering (ASCMSE 2023). SPIE, 2023, 12784: 80-86. DOI: [10.1117/12.2692833](https://doi.org/10.1117/12.2692833)
 
-- Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, in press. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
+- Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, 2026, 44(1): 232-247. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
 
 - Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, Accepted.
 
