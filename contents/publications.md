@@ -12,7 +12,8 @@
 
 #### **Submited**
 
+- Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schr\"{o}dinger equation on a rectangular region,  journal of computational physics , under review. (https://doi.org/10.2139/ssrn.6262781)
+
 #### **Manuscript**
 
-- Gao X, Jiang H*, Lu T, Yao W. Approximate discrete transparent boundary conditions for the two-dimensional Schrödinger equation on a rectangular region, in preparation.
 - Gao X, Jiang H*, Lu T, Yao W.  Quantum Device Simulation Based on the One-Dimiensional transient Schrödinger-Poisson System, in preparation.
