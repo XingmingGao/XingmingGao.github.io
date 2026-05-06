@@ -8,13 +8,13 @@
 
 - Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, 2026, 44(1): 232-247. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
 
-- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, Online First, DOI: [10.4208/aamm.OA-2025-0038](https://doi.org/10.4208/aamm.OA-2025-0038)
+- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, Online First. DOI: [10.4208/aamm.OA-2025-0038](https://doi.org/10.4208/aamm.OA-2025-0038)
 
 #### **Submited**
 
-- Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schr\"{o}dinger equation on a rectangular region,  Journal of Computational Physics, Under Review, DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6262781)
+- Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schr\"{o}dinger equation on a rectangular region,  Journal of Computational Physics, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6262781)
 
-- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions, Computer Methods in Applied Mechanics and Engineering, Under Review, DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6714868)
+- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions,  Preprint. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6714868)
 
 #### **Manuscript**
 
