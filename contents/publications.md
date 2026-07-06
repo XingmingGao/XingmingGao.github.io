@@ -8,14 +8,14 @@
 
 - Gao X, Jiang H*, Lu T, Yao W. Numerical Studies of I-V Characteristics in Resonant Tunneling Diodes: A Survey of Convergence[J]. Journal of Computational Mathematics, 2026, 44(1): 232-247. DOI: [10.4208/jcm.2410-m2024-0037](https://doi.org/10.4208/jcm.2410-m2024-0037)
 
-- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics, Online First. DOI: [10.4208/aamm.OA-2025-0038](https://doi.org/10.4208/aamm.OA-2025-0038)
+- Gao X, Jiang H*, Lu T, Yao W. Multi-subband Transfer Matrix Method for the Two-Dimensional Schrödinger Equation in Quantum Devices[J]. Advances in Applied Mathematics and Mechanics,  2026, 18(6): 1670–1694. DOI: [10.4208/aamm.OA-2025-0038](https://doi.org/10.4208/aamm.OA-2025-0038)
 
 #### **Submited**
 
-- Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schr\"{o}dinger equation on a rectangular region,  Journal of Computational Physics, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6262781)
+- Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schrödinger equation on a rectangular region,  Journal of Computational Physics, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6262781)
 
-- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions,  Preprint. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6714868)
+- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions, Applied Mathematics and Computation, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6714868)
 
 #### **Manuscript**
 
-- Gao X, Jiang H*, Lu T, Yao W. Neural-assisted adaptive domain decomposition for TMM. in preparation .
+- Gao X, Jiang H*, Lu T, Yao W. A Learned Electron Density Operator for Accelerating Self-Consistent Poisson-Schrödinger Device Simulation. in preparation .
