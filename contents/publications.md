@@ -14,7 +14,7 @@
 
 - Gao X, Jiang H*, Lu T, Yao W. Novel discrete transparent boundary conditions for the two-dimensional time-dependent Schrödinger equation on a rectangular region,  Journal of Computational Physics, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6262781)
 
-- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions, Applied Mathematics and Computation, Under Review. DOI: [10.2139/ssrn.6262781](https://doi.org/10.2139/ssrn.6714868)
+- Gao X, Jiang H*, Lu T, Yao W.  Simulation of Resonant Tunneling Diodes via a Time-Dependent Schrödinger-Poisson System with Transparent Boundary Conditions, Applied Mathematics and Computation, Under Review. DOI: [10.2139/ssrn.6714868](https://doi.org/10.2139/ssrn.6714868)
 
 #### **Manuscript**
 
